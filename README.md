@@ -1,6 +1,6 @@
 # BlenderMixamo2glTFConverter
 
-Script to convert mixamo fbx to a gltf which only contains the animation track
+Blender 3.6.0^ Script to convert mixamo fbx to a gltf which only contains the animation track
 
 Exported animation clip should be compatible with any rig which follows the same bone naming structure and bone rotations
 
